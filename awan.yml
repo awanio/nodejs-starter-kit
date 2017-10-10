@@ -1,0 +1,5 @@
+version: '1.0'
+web:
+  type: nodejs
+  version: 8
+  run: node index.js
